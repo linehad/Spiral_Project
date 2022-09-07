@@ -4,7 +4,7 @@
 
 void Speed(int speed)
 {
-	Sleep(1000 / speed); // Context Switch 
+	Sleep(1000 / speed); // Context Switching
 }
 
 
